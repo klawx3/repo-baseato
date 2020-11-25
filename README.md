@@ -19,4 +19,4 @@ Subiendo una imagen X para los niños xd
 > pd : ya estan grandes
 
 
-![flor](https://raw.githubusercontent.com/klawx3/repo-baseato/master/images/Mariposas-2.jpg)
+![flor](images/Mariposas-2.jpg)

@@ -9,6 +9,7 @@ mi problematica es soasdasdhkajsd kajhsdka hskdjhaksdj hkajsdh kajhsdkahksdj hak
 
 asdhaskdhaskdjhakjsdhkajsdhkajsdhkajsd
 
+=======
 ![Meme](https://www.milenio.com/uploads/media/2020/06/10/meme-perro-grande-pequeno-especial.jpg)
 
 
@@ -20,3 +21,6 @@ Subiendo una imagen X para los niños xd
 
 
 ![flor](images/Mariposas-2.jpg)
+
+
+*Salu2 desde la ultima jornada del taller de git*
